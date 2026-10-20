@@ -1,4 +1,4 @@
-/** 서버(attendance-app-server/src/types.ts)와 1:1로 맞춘 도메인 타입 */
+/** 서버(onwork-server/src/types.ts)와 1:1로 맞춘 도메인 타입 */
 
 export type GeoPoint = {
   latitude: number;
