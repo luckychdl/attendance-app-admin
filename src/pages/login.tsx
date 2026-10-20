@@ -28,7 +28,7 @@ export function LoginPage() {
     <div className="login">
       <form className="login-card" onSubmit={submit}>
         <span className="brand-mark brand-mark-large" aria-hidden />
-        <h1>출근체크 관리자</h1>
+        <h1>오늘근무 관리자</h1>
         <p>앱에서 쓰는 관리자 계정으로 로그인합니다.</p>
 
         <Field label="회사명">

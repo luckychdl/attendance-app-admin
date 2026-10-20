@@ -41,7 +41,7 @@ export function Layout() {
           <span className="brand-mark" aria-hidden />
           <div>
             <strong>{me.companyName}</strong>
-            <span>출근체크 관리자</span>
+            <span>오늘근무 관리자</span>
           </div>
         </div>
 

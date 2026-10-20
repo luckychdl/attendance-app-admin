@@ -1,4 +1,4 @@
-# 출근체크 관리자 (attendance-app-admin)
+# 오늘근무 관리자 (onwork-admin)
 
 [attendance-app](../attendance-app)의 관리자 웹. 회사 전체의 출퇴근 · 휴가 · 직원 · 근무지를 한곳에서 관리합니다.
 [Vite](https://vite.dev) + React + TypeScript, API는 [attendance-app-server](../attendance-app-server)의 `/admin/*`을 씁니다.
